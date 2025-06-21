@@ -1,1 +1,1 @@
-# www.usefulexectool.com
+# 随便写的QRcode scanner
