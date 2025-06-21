@@ -1,2 +1,2 @@
-# 随便写的QRcode scanner,just a do not use it.
+# 用AI随便调教的QRcode scanner.
 没啥用的小功能，起因是因为在网上搜一圈没有本地解码的，还有在解一些题时要手动改一些文件合并图片，随构造
