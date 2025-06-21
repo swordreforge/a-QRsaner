@@ -1,1 +1,1 @@
-# 随便写的QRcode scanner
+# 随便写的QRcode scanner,just a shit
